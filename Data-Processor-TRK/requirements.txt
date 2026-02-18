@@ -1,0 +1,16 @@
+Requirements for using dataprocessor.py
+
+1. Any IDE
+
+If no IDE install VS code from:
+	https://code.visualstudio.com/download
+
+2. Runtime .net
+
+For windows users:
+Download .NET 9.0 SDK (x64) from:
+	https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.311/dotnet-sdk-9.0.311-win-x64.exe
+
+For MAC Users:
+Download .NET 9.0 SDK (Arm64 or x64) from:
+	https://builds.dotnet.microsoft.com/dotnet/Runtime/9.0.13/dotnet-runtime-9.0.13-osx-arm64.pkg

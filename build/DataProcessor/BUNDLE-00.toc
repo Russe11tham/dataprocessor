@@ -1,0 +1,3 @@
+([('DataProcessor',
+   '/Users/russell/NTU/URECA/dataprocessor/dist/DataProcessor',
+   'EXECUTABLE')],)
