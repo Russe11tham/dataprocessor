@@ -15,6 +15,11 @@ try:
 except ImportError:
     ps = None
 
+#update check:
+APP_VERSION = "1.0.0"  # current version of your app
+UPDATE_URL = "https://raw.githubusercontent.com/yourname/dataprocessor/main/latest.txt"
+
+
 def ifcsv(input_file, output_file, nrows):
     # Detect encoding first
     with open(input_file, 'rb') as f:
